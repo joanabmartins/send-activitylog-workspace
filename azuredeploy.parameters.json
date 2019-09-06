@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "subscriptions": {
+      "value": [
+        "09924d6e-620b-40d5-a667-62abffc06e34",
+        "04f9d0de-82cd-4053-8b1e-13a9f82bd367",
+        "45c2e5b5-61aa-4e4b-845d-beb57436de11",
+        "28373292-08b4-4f3d-9cc3-f65903280cfb",
+        "95851620-9866-4343-986a-a83f9b96198e"
+      ]
+    },
+    "workspaceName": {
+      "value": "MyWorkspace6541"
+    },
+    "location": {
+      "value": "West Europe"
+    },
+    "sku": {
+      "value": "pergb2018"
+    }
+  }
+}
